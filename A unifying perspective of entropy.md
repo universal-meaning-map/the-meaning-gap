@@ -30,7 +30,7 @@ Entropy as a phenomenon is the relationship between priors (what is known) and p
 
 This relationship is symbolically expressed through probability, which  fuses priors and possibilities into an inseparable mathematical representation. Entropy as a measure is a quantification of this probability representation.
 
-![Unified perspective of entropy](./)
+![Unified perspective of entropy](./Unified_perspective_of_entropy.png)
 
 # Entropy as a phenomenon
 
