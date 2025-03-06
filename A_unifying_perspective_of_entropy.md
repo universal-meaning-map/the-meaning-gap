@@ -30,7 +30,9 @@ Entropy as a phenomenon is the relationship between priors (what is known) and p
 
 This relationship is symbolically expressed through probability, which  fuses priors and possibilities into an inseparable mathematical representation. Entropy as a measure is a quantification of this probability representation.
 
-![Unified perspective of entropy](A_unifying_perspective_of_entropy.md)
+
+
+![Unified perspective of entropy](./Unified%20perspective%20of%20entropy.png)
 
 # Entropy as a phenomenon
 
@@ -94,7 +96,7 @@ Possibilities are defined externally because they inherently establish the const
 
 Yet, possibilities affect entropy only insofar as priors can recognize and account for their constraints. It depends not on the full range of actual possibilities but on what priors acknowledge as possible.
 
-![Constrained space of possibilities](./Constrained_space_of_possibilities.png)
+![Constrained space of possibilities](./Constrained space of possibilities.png)
 
 Consider a die. Whether it has five, six, or seven sides, if priors assume a fair six-sided die, the entropy about the outcome remains unchanged. The unrecognized sides do not affect the calculation.
 
@@ -190,7 +192,7 @@ I believe the following categorization or priors can help to see how they get em
 - **Predictive priors** are observed regularities about how reality behaves. They shape inference mechanisms by determining how probabilities are assigned to possibilities.
  In statistical mechanics, predictive priors about conservation laws and particle independence become the mathematical apparatus for assigning probabilities to microstates. In information theory, observed regularities in communication become the basis for predicting symbol likelihoods.
 
-![Anatomy of classic entropy frameworks](Anatomy_of_classic_entropy_frameworks.png)
+![Anatomy of classic entropy frameworks](./Anatomy of classic entropy frameworks.png)
 
 ### Symbolic representation embeds priors
 
