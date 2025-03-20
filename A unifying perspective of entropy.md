@@ -1,31 +1,34 @@
+
 - [A unified perspective of entropy and probability](#a-unified-perspective-of-entropy-and-probability)
-        - [Phenomenon and measure are distinct](#phenomenon-and-measure-are-distinct)
-  - [Phenomena](#phenomena)
-    - [Entropy and probability as phenomena](#entropy-and-probability-as-phenomena)
-    - [Mapping to Intuitive Understanding](#mapping-to-intuitive-understanding)
-    - [What are priors](#what-are-priors)
-    - [What are possibilities](#what-are-possibilities)
-      - [Possibilities vs constrains](#possibilities-vs-constrains)
-      - [Specificity as constraint](#specificity-as-constraint)
-      - [Only constrains recognized by priors have an effect](#only-constrains-recognized-by-priors-have-an-effect)
-    - [What is inference](#what-is-inference)
-      - [Inference types as constraints](#inference-types-as-constraints)
-      - [The inference process can't be separated from priors or possibilities](#the-inference-process-cant-be-separated-from-priors-or-possibilities)
-  - [Measures](#measures)
-    - [From Phenomenon to Measure](#from-phenomenon-to-measure)
-    - [Priors and possibilities are constrained by foundational priors](#priors-and-possibilities-are-constrained-by-foundational-priors)
-    - [Probability as measure encodes possibilities and priors](#probability-as-measure-encodes-possibilities-and-priors)
-    - [Entropy as a Measure](#entropy-as-a-measure)
-    - [Entropy as a measure can't be unified](#entropy-as-a-measure-cant-be-unified)
-  - [Revisiting classic entropy frameworks](#revisiting-classic-entropy-frameworks)
-    - [A priors taxonomy](#a-priors-taxonomy)
-    - [Entropy in statistical mechanics](#entropy-in-statistical-mechanics)
-      - [Entropy and the second law of thermodynamics](#entropy-and-the-second-law-of-thermodynamics)
-      - [A simpler resolution of the Gibbs paradox](#a-simpler-resolution-of-the-gibbs-paradox)
-    - [Entropy in information theory](#entropy-in-information-theory)
-      - [Entropy is not relative to the observer](#entropy-is-not-relative-to-the-observer)
-  - [Conclusion](#conclusion)
-  - [Notes](#notes)
+    - [Phenomenon and measure are distinct](#phenomenon-and-measure-are-distinct)
+    - [Phenomena](#phenomena)
+        - [Entropy and probability as phenomena](#entropy-and-probability-as-phenomena)
+        - [Mapping to Intuitive Understanding](#mapping-to-intuitive-understanding)
+        - [What are priors](#what-are-priors)
+        - [What are possibilities](#what-are-possibilities)
+            - [Possibilities vs constrains](#possibilities-vs-constrains)
+            - [Specificity as constraint](#specificity-as-constraint)
+            - [Only constrains recognized by priors have an effect](#only-constrains-recognized-by-priors-have-an-effect)
+        - [What is inference](#what-is-inference)
+            - [Inference types as constraints](#inference-types-as-constraints)
+            - [The inference process can't be separated from priors or possibilities](#the-inference-process-cant-be-separated-from-priors-or-possibilities)
+    - [Measures](#measures)
+        - [From Phenomenon to Measure](#from-phenomenon-to-measure)
+        - [Priors and possibilities are constrained by foundational priors](#priors-and-possibilities-are-constrained-by-foundational-priors)
+        - [Probability as measure encodes possibilities and priors](#probability-as-measure-encodes-possibilities-and-priors)
+        - [Entropy as a Measure](#entropy-as-a-measure)
+        - [Entropy as a measure can't be unified](#entropy-as-a-measure-cant-be-unified)
+    - [Revisiting classic entropy frameworks](#revisiting-classic-entropy-frameworks)
+        - [A priors taxonomy](#a-priors-taxonomy)
+        - [Entropy in statistical mechanics](#entropy-in-statistical-mechanics)
+            - [Entropy and the second law of thermodynamics](#entropy-and-the-second-law-of-thermodynamics)
+            - [A simpler resolution of the Gibbs paradox](#a-simpler-resolution-of-the-gibbs-paradox)
+        - [Entropy in information theory](#entropy-in-information-theory)
+            - [Entropy is not relative to the observer](#entropy-is-not-relative-to-the-observer)
+    - [Conclusion](#conclusion)
+    - [Notes](#notes)
+
+
 
 # A unified perspective of entropy and probability
 
@@ -47,7 +50,7 @@ This conceptualization questions traditional interpretations of the roles of ent
 - The Gibbs paradox is resolved by recognizing indistinguishability as a prior assumption about how states are counted.
 - Entropy is not merely observer-dependent as information theory suggests, but is shaped by how the frameworks themselves includes foundational assumptions.
 
-### Phenomenon and measure are distinct
+## Phenomenon and measure are distinct
 
 Phenomena exist independently of representation. Mathematical expressions, language, visual models, and formal notations provide ways to describe them, but no symbolic representation can fully capture reality. A map is never the territory.
 
