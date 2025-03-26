@@ -30,18 +30,18 @@
 
 # A unified perspective of entropy and probability
 
-*Entropy* is one of the most widely used and conceptually fragmented ideas in science. It appears across disciplines each offering different definitions while attempting to describe a similar underlying phenomenon. Because each field builds on its own assumptions, entropy often appears inconsistent across contexts, making its unifying principles harder to see.
+_Entropy_ appears across scientific disciplines, each defining it differently while pointing to a similar underlying idea. These definitions often seem inconsistent because each field formalizes entropy based on its own assumptions and modeling choices. As a result, the shared structure beneath them remains obscured.
 
-The [Quanta Magazine article](https://www.quantamagazine.org/what-is-entropy-a-measure-of-just-how-little-we-really-know-20241213/) provides good background for this work. It explores this tension by tracing how entropy has evolved historically across disciplines. It highlights the conceptual ambiguity that arises when entropy is treated both as a physical property and as a measure of ignorance or uncertainty, depending on the framework.
+This [Quanta Magazine article](https://www.quantamagazine.org/what-is-entropy-a-measure-of-just-how-little-we-really-know-20241213/) provides helpful background for this work. It traces how entropy has evolved across disciplines and highlights the ambiguity that arises when it is treated as both a physical property and a measure of uncertainty, depending on the framework.
 
-In this work, I introduce a conceptual framework that unifies entropy and probability as *phenomena*. While the focus is on information theory and statistical mechanics, the framework is extensible to other forms of entropy. Rather than treating these interpretations as analogous, it reveals them as expressions of the same underlying structure grounded in the relationship between *priors* and *possibilities*.
+In this work, I introduce a conceptual framework that unifies entropy and probability as _phenomena_. While the focus is on information theory and statistical mechanics, the framework is extensible to other forms of entropy. Rather than treating these interpretations as analogous, it reveals them as expressions of the same underlying structure grounded in the relationship between _priors_ and _possibilities_.
 
-The first part: **Phenomena** defines entropy and probability as relationships between *priors* and *possibilities*, and introduces the core components that shape them.
+The first part: **Phenomena** defines entropy and probability as relationships between _priors_ and _possibilities_, and introduces the core components that shape them.
 
 - Entropy and probability exist as phenomena before measurement. They represent relationships that exist in reality independent of our attempts to quantify them.
-- As phenomena, entropy and probability describe the relationship between *priors* and *possibilities*. They differ only in specificity: *probability* concerns a specific possibility, while *entropy* concerns any possibility within the defined space of possibilities.
-- *Possibilities* emerge from *constraints* imposed on an otherwise unrestricted reality. This framing unifies how possibility spaces are defined across frameworks.
-- *Priors* are anything that informs. Frameworks, inference mechanisms, symbolic representations, and formulas all emerge from priors. For entropy and probability to be well defined, priors must be comprehensive.
+- As phenomena, entropy and probability describe the relationship between _priors_ and _possibilities_. They differ only in specificity: _probability_ concerns a specific possibility, while _entropy_ concerns any possibility within the defined space of possibilities.
+- _Possibilities_ emerge from _constraints_ imposed on an otherwise unrestricted reality. This framing unifies how possibility spaces are defined across frameworks.
+- _Priors_ are anything that informs. Frameworks, inference mechanisms, symbolic representations, and formulas all emerge from priors. For entropy and probability to be well defined, priors must be comprehensive.
 
 The second part: **Measure** examines how phenomena are transformed into symbolic quantities. It shows how this process is not neutral but shaped by priors embedded in the modeling framework, representation, and inference process.
 
@@ -49,7 +49,7 @@ Finally: **Revisiting classic entropy frameworks** applies the lens of this fram
 
 - In statistical mechanics, entropy is not an inherent property of physical systems, but a reflection of the relationship between what is known and what is considered possible, framed by its specific modeling assumptions.
 - The role of entropy in the second law of thermodynamics requires reinterpretation. The idea that entropy inherently increases over time misrepresents what the law actually states. Entropy increases only within the modeling assumptions and priors used in statistical mechanics.
-- Entropy is not merely observer-dependent, as suggested in information theory, but *prior*-dependent—including priors not held by any specific observer but embedded in the framework itself.
+- Entropy is not merely observer-dependent, as suggested in information theory, but _prior_-dependent—including priors not held by any specific observer but embedded in the framework itself.
   
 ## Phenomenon and measure are distinct
 
@@ -76,21 +76,22 @@ Priors reflect the entire state of knowledge or belief informing the situation, 
 > **Probability as a phenomenon** is the relationship between **priors** and a **specific possibility**, relative to the entire space of **possibilities**.
 
 The diagram below summarizes the central structure of the framework and serves as the main figure of this work. It outlines how probability and entropy arise from the relationship between priors and possibilities, and how this relationship becomes measurable through inference and symbolic representation.
+
 ![Unified perspective of entropy](./Unified_perspective_of_entropy_and_probability.png)
 
 ### Mapping to intuitive understanding
 
-The notions of *certainty* and *uncertainty* provide an intuitive foundation for understanding entropy and probability.
+The notions of _certainty_ and _uncertainty_ provide an intuitive foundation for understanding entropy and probability.
 
 These concepts should not be dismissed as mere informal approximations of more rigorous mathematical definitions. While intuition may be ambiguous, it precedes formalization. Mathematical models are ultimately attempts to capture recurrent patterns in human experience.
 
-The fact that *uncertainty* underlies various interpretations of entropy across disciplines is not a coincidence but a reflection of a fundamental pattern that different fields express in their own ways.
+The fact that _uncertainty_ underlies various interpretations of entropy across disciplines is not a coincidence but a reflection of a fundamental pattern that different fields express in their own ways.
 
-By grounding the notions of *certainty* and *uncertainty* in our direct experience, we can have a more intuitive understanding of *probability* and *entropy*, their formal analogs.
+By grounding the notions of _certainty_ and _uncertainty_ in our direct experience, we can have a more intuitive understanding of _probability_ and _entropy_, their formal analogs.
 
-Imagine you hear an unexpected sound. What defines the *uncertainty* you feel? It is the relation between what you know and any of the possibilities you believe could have caused it. There is nothing else defining it. This intuitive experience reflects the same phenomenon that entropy formalizes across disciplines.
+Imagine you hear an unexpected sound. What defines the _uncertainty_ you feel? It is the relation between what you know and any of the possibilities you believe could have caused it. There is nothing else defining it. This intuitive experience reflects the same phenomenon that entropy formalizes across disciplines.
 
-*Certainty* and *likelihood* both reflect the idea of probability. I believe *likelihood* is more accurate, as it implies a degree, whereas *certainty* may or may not. When used categorically, *certainty* and *uncertainty* are perceived as opposites. But if they are treated as quantities representing a degree of knowledge, *certainty* and *uncertainty* differ primarily in the specificity of the space of possibilities they refer to. *Uncertainty* spans multiple possibilities, capturing the extent of what is unknown across options. *Certainty* requires a specific possibility to be certain about, just like their formal analogs.
+_Certainty_ and _likelihood_ both reflect the idea of probability. I believe _likelihood_ is more accurate, as it implies a degree, whereas _certainty_ may or may not. When used categorically, _certainty_ and _uncertainty_ are perceived as opposites. But if they are treated as quantities representing a degree of knowledge, _certainty_ and _uncertainty_ differ primarily in the specificity of the space of possibilities they refer to. _Uncertainty_ spans multiple possibilities, capturing the extent of what is unknown across options. _Certainty_ requires a specific possibility to be certain about, just like their formal analogs.
 
 ### What are priors
 
@@ -132,11 +133,11 @@ Probability theory institutionalizes this blindspot by defining "possible outcom
 
 This constraint-based framing unifies how possibility spaces are defined across frameworks. All possibility spaces are subsets of an unrestricted space of everything. Constraints determine what is included and what is excluded. By making those constraints explicit, we expose the underlying structure that defines what each framework considers possible
 
-- In **information theory**, *outcomes* are what remain after constraining to the symbolic domain, a defined alphabet, message length, and structural assumptions.
+- In **information theory**, _outcomes_ are what remain after constraining to the symbolic domain, a defined alphabet, message length, and structural assumptions.
 
-- In **statistical mechanics**, *microstates* are what remain after constraining to particle configurations represented symbolically, then further by conservation laws, boundary conditions, and assumptions about how particles interact or influence each other.
+- In **statistical mechanics**, _microstates_ are what remain after constraining to particle configurations represented symbolically, then further by conservation laws, boundary conditions, and assumptions about how particles interact or influence each other.
 
-- In **causal inference**, such as identifying the origin of a sound, *potential causes* defines the space of possibilities. They are what remain after constraining to past elements considered capable of producing the sound within the specific context in which it was heard. There is no symbolic constraints here.
+- In **causal inference**, such as identifying the origin of a sound, _potential causes_ defines the space of possibilities. They are what remain after constraining to past elements considered capable of producing the sound within the specific context in which it was heard. There is no symbolic constraints here.
 
 In this work, I refer to the space of possibilities either directly as a set of outcomes or indirectly through the constraints that define it, using the two interchangeably depending on context.
 
@@ -152,7 +153,7 @@ The fact that entropy as a measure can be derived from a probability distributio
 
 Possibilities affect entropy or probability only insofar as priors can recognize and account for their constraints. Their value depends not on the full range of possibilities but on what priors can recognize.
 
-Although possibilities and priors are not the same type of abstraction and cannot be directly compared like sets, recognized possibilities can be seen as the union between priors and possibilities. This is the “believed” part in the definition of possibilities as *what is believed possible*. The following diagram represents this. The external circle represents *everything*. Constraints reduce this to possibilities. But only the ones recognized by *priors* will have an affect.
+Although possibilities and priors are not the same type of abstraction and cannot be directly compared like sets, recognized possibilities can be seen as the union between priors and possibilities. This is the “believed” part in the definition of possibilities as _what is believed possible_. The following diagram represents this. The external circle represents _everything_. Constraints reduce this to possibilities. But only the ones recognized by _priors_ will have an affect.
 
 ![Constrained space of possibilities](./Recongized_possibilities.png)
 
@@ -348,6 +349,6 @@ Entropy and probability, because they express the state of knowledge are especia
 ## Notes
 
 - I consider this a living document that will require further refinement and corrections.
-- [This article is available on GitHub](https://github.com/universal-meaning-map/the-meaning-gap/blob/main/A%20unifying%20perspective%20of%20entropy.md) to facilitate deeper discussion through GitHub issues.
+- [This article is available on GitHub](https://github.com/universal-meaning-map/the-meaning-gap/blob/main/A%20unifying%20perspective%20of%20entropy%20and%20probability.md) to facilitate deeper discussion through GitHub issues.
 - These ideas emerged through a philosophical and epistemological lens. My understanding of statistical mechanics, information theory, and probability theory is extremely limited. Any corrections or clarifications are very welcome.
 - The framework presented here is foundational for the rest of my work. I have a deep interest in these ideas to be dismissed, validated or anything in between. Unfortunately, I don't have access to people deeply engaged in this topic, so if you can share this with others who are, I would genuinely appreciate it.
