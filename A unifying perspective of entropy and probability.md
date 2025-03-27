@@ -1,3 +1,5 @@
+> This article is published at [The meaning gap](https://buttondown.com/themeaninggap/archive/a-unified-perspective-of-entropy-and-probability/) newsletter
+
 ## Table of contents
 
 - [A unified perspective of entropy and probability](#a-unified-perspective-of-entropy-and-probability)
@@ -36,9 +38,10 @@ This [Quanta Magazine article](https://www.quantamagazine.org/what-is-entropy-a-
 
 In this work, I introduce a conceptual framework that unifies entropy and probability as _phenomena_. While the focus is on information theory and statistical mechanics, the framework is extensible to other forms of entropy. Rather than treating these interpretations as analogous, it reveals them as expressions of the same underlying structure grounded in the relationship between _priors_ and _possibilities_.
 
+Entropy and probability exist as phenomena before measurement. They represent relationships that exist in reality independent of our attempts to quantify them.
+
 The first part: **Phenomena** defines entropy and probability as relationships between _priors_ and _possibilities_, and introduces the core components that shape them.
 
-- Entropy and probability exist as phenomena before measurement. They represent relationships that exist in reality independent of our attempts to quantify them.
 - As phenomena, entropy and probability describe the relationship between _priors_ and _possibilities_. They differ only in specificity: _probability_ concerns a specific possibility, while _entropy_ concerns any possibility within the defined space of possibilities.
 - _Possibilities_ emerge from _constraints_ imposed on an otherwise unrestricted reality. This framing unifies how possibility spaces are defined across frameworks.
 - _Priors_ are anything that informs. Frameworks, inference mechanisms, symbolic representations, and formulas all emerge from priors. For entropy and probability to be well defined, priors must be comprehensive.
@@ -211,8 +214,9 @@ A quantity is an outcome of inference where priors, including conceptual models 
 The inference to produce a measure can be conceptualized into two stages:
 
 1. **Cognitive reasoning:** Observations and mental models (priors) conceptualize and reason about the observed phenomenon in a way that can be represented symbolically (constraint).
- - **Possibilities** can be expressed as enumerations, rules, natural language descriptions, mathematical constraints, symbolic spaces, or algorithms.
- - **Priors** can be formalized as mathematical models, machine learning models, heuristic rules, conceptual frameworks, probability distributions, linguistic descriptions, or relational databases.
+
+- **Possibilities** can be expressed as enumerations, rules, natural language descriptions, mathematical constraints, symbolic spaces, or algorithms.
+- **Priors** can be formalized as mathematical models, machine learning models, heuristic rules, conceptual frameworks, probability distributions, linguistic descriptions, or relational databases.
 
 2. **Symbolic calculation**: Symbols and numbers are represented and computed using math and algorithms to produce the final numeric quantity.
 
